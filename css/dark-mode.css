@@ -1,0 +1,53 @@
+*{
+    color: #A5D7E8;  
+
+}
+
+
+body{
+    background-image: linear-gradient(to right, #19376D, #0B2447);
+
+}
+
+
+.menu-point a:hover{
+    background-color: #A5D7E8;
+    color: #19376D;
+    
+}
+
+td {
+    color: #A5D7E8;
+    background-color: #19376D;
+    
+}
+
+table h1{
+    color: #A5D7E8;
+
+}
+
+
+.prev, .next{
+    color: #A5D7E8;
+    background-color: #1e3ebd;
+
+}
+
+
+.prev:hover, .next:hover{
+    background-color: #A5D7E8;
+    color: #1e3ebd;
+
+}
+
+
+.dot{
+    background-color: #1e3ebd;
+
+}
+
+.active, dot:hover{
+    background-color: #A5D7E8;
+
+}

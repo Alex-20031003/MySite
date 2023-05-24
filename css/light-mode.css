@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+*{
+    color: #1e3ebd;  
+
+}
+
+body{
+    background-image: linear-gradient(to right, #A5D7E8, #576CBC);
+
+}
+
+.menu-point a:hover{
+    background-color: #1e3ebd;
+    color: #A5D7E8;
+
+}
+
+td {
+    color: #1e3ebd;
+    background-color: #A5D7E8;
+    
+}
+
+table h1{
+    color: #1e3ebd;
+
+}
+  
+label{
+    background-color: #A5D7E8;
+
+}
+  
+  label:after {
+    background-color: #1e3ebd;
+
+}
+  
+  input:checked + label {
+    background-color: #1e3ebd;
+
+}
+  
+  input:checked + label:after {
+    background-color: #A5D7E8;
+
+}
+
+
+.prev, .next{
+    color: #1e3ebd;
+    background-color: #A5D7E8;
+
+}
+
+.prev:hover, .next:hover{
+    background-color: #1e3ebd;
+    color: #A5D7E8;
+
+}
+
+
+.dot{
+    background-color: #A5D7E8;
+
+}
+
+.active, dot:hover{
+    background-color: #1e3ebd;
+
+}

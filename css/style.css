@@ -92,9 +92,19 @@ table h1 {
   color: #1e3ebd;
 }
 
-table {
-  border-collapse: collapse;
-  word-wrap: break-word;
+.table .table-wrapper{
+  border-collapse: collapse 1px;
+
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  width: 100%;
+
+}
+
+.table-wrapper table{
+  width: max-content;
 
 }
 

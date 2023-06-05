@@ -201,3 +201,10 @@ input:checked + label:after {
 .slide-show-text h1 {
   text-align: center;
 }
+
+.map iframe{
+  width: 500px;
+  height: 200px;
+
+
+}

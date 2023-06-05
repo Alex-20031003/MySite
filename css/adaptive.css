@@ -110,6 +110,14 @@
       font-size: 16px;
       padding: 3px;
     }
+
+    .map iframe{
+      width: 500px;
+      height: 200px;
+      
+      
+    }
+
   
   
   }
